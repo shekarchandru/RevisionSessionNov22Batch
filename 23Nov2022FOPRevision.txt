@@ -1,0 +1,138 @@
+23 Nov 2022:
+AGENDA:
+
+Expectation Settings:
+Brief Idea about Classes & Objects - need for these in OOPS[inheritance/encapsulation/abstraction]
+Methods & Variables
+-------------------------------------
+Demonstrations On
+Creating Workspaces /Projects / Packages /Classes - Eclipse
+Importing Projects
+Loops & Constructs
+for while do while / if.. else switch
+Array & Scanner - 
+Pattern - Program
+-------------------------------------------------------------------------------------------------
+Object Oriented Programming
+C  ,  - Procedural Programming []
+-------------------
+OOP
+C++ 
+Java C#
+------------------
+Process Centric -- [Monolithic]-Process 
+Railway
+[
+-accepting passenger details
+-Train availability
+- check ticket avlbvlty /
+- fare
+- calculate 
+-generate ticket 
+]
+
+
+Airlines Reservations
+{
+
+}
+------------------------
+OOP
+Design
+
+[Objects]----->Banking [Account Employee Customer Manager Ldger Journal]
+---------------------------------
+Classes Objects
+Coding Phase
+Coding [Classes + Object(Instances of a class]
+Classes are nothing But BluePrints of the real time entities that make up the system
+[Characteristics + Behavioural aspects]
+
+class SoftwareEngineer
+{
+	Styring engineerName;
+	address,phone,department,project,manager
+
+
+	writeCode()
+	solveProblem()
+	createSoftware()
+
+}
+
+SoftwareEngineer rajesh = new SoftwareEngineer()
+SoftwareEngineer mahesh = new SoftwareEngineer()
+------------------------------------------------------
+
+ class Employee
+{
+
+Data members - variables
+behaviours - functions methods
+
+
+}
+---------------------------------------------------------
+CONSTRUCT 
+
+if ... else  nested if
+switch case
+-------
+Loops
+for
+while
+do while
+
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+
+for(i=1 to 5)
+{
+	for(1 to )
+
+
+}
+for(int i=1;i<=5 ; i++)
+{
+	for(int j=1;j<=i;j++)
+	{
+		syso(i
+	}
+
+
+}
+------------
+while(condition)
+{
+
+
+
+
+}
+
+do
+{
+
+
+}while()
+--------------------------
+
+Scanner scan = new Scanner(System.in);
+
+scan.nextInt() --- integer
+mextFloat 
+
+
+
+
+
+
+
+
+
+
+
+
